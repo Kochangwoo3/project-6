@@ -1,0 +1,22 @@
+section.practical
+  .section-inner
+    .section-title > h1
+    .practical-content
+      h4
+      .practical-slider
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+        .practical-item
+          a > img
+
+          
